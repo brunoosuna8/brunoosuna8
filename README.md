@@ -2,7 +2,10 @@
 - 👀 I’m interested in HTML,CSS,JavaScript
 - 🌱 I’m currently learning TypeScript and Tailwind.
 - 💞️ I’m looking to collaborate on any project that i can help to growth,know new people and learn more stuff!
-- 📫 How to reach me : email: brunoosuna8@gmail.com/ig @brunoosuna8.
+- 📫 How to reach me : 
+- email: brunoosuna8@gmail.com 
+- Linkedin : https://www.linkedin.com/in/bruno-osuna/
+- 
 
 <!---
 brunoosuna8/brunoosuna8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
