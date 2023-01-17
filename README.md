@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bruno,22 years old, Argentina :)
+- 👋 Hi, I’m Bruno,24 years old, Argentina :)
 - 👀 I’m interested in HTML,CSS,JavaScript
-- 🌱 I’m currently learning react js,MyQSL.
+- 🌱 I’m currently learning TypeScript and Tailwind.
 - 💞️ I’m looking to collaborate on any project that i can help to growth,know new people and learn more stuff!
 - 📫 How to reach me : email: brunoosuna8@gmail.com/ig @brunoosuna8.
 
