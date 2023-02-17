@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno,24 years old, Argentina :)
-- 👀 I’m interested in HTML,CSS,JavaScript
-- 🌱 I’m currently learning TypeScript and Tailwind.
+- 👀 I have strong knowledge in HTML, CSS, JavaScript, React, Redux, Express, Node.js, PostgreSQL, Tailwind,GIT, SCRUM methodology 
+- 🌱 I’m currently learning TypeScript and Next.js
 - 💞️ I’m looking to collaborate on any project that i can help to growth,know new people and learn more stuff!
 - 📫 How to reach me : 
 - email: brunoosuna8@gmail.com 
