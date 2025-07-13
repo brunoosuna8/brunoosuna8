@@ -1,11 +1,34 @@
-- 👋 Hi, I’m Bruno,24 years old, Argentina :)
-- 👀 I have strong knowledge in HTML, CSS, JavaScript, React, Redux, Express, Node.js, PostgreSQL, Tailwind,GIT, SCRUM methodology 
-- 🌱 I’m currently learning TypeScript and Next.js
-- 💞️ I’m looking to collaborate on any project that i can help to growth,know new people and learn more stuff!
-- 📫 How to reach me : 
-- email: brunoosuna8@gmail.com 
-- Linkedin : https://www.linkedin.com/in/bruno-osuna/
-📄 Know about my experiences : I am a full stack developer with experience developing web applications. I have skills in programming languages like JavaScript, Css, and Html5, as well as experience using frameworks and libraries like React, Redux, and Node.js. I also have knowledge in databases, PostgreSQL and Firebase. I am passionate about software development and am always looking to learn new technologies and improve my skills. I easily adapt to teamwork and I have the skills to communicate effectively with my team and with my clients. I am willing to work on challenging projects and take the initiative to solve problems and improve team performance.](I am a full stack developer with experience developing web applications. I have skills in programming languages like JavaScript, Css, and Html5, as well as experience using frameworks and libraries like React, Redux, and Node.js. I also have knowledge in databases, PostgreSQL and Firebase. I am passionate about software development and am always looking to learn new technologies and improve my skills. I easily adapt to teamwork and I have the skills to communicate effectively with my team and with my clients. I am willing to work on challenging projects and take the initiative to solve problems and improve team performance.
+Software Engineer | Large-Scale Systems & AI Solutions
+Experience: 3+ years designing scalable systems deployed across thousands of locations.
+Focus: AI integrations (OpenAI), third-party services, and performance optimization.
+
+🚀 Key Achievements:
+Highpoint Growth Networks (2024–Present):
+
+Developed an advertising management system for thousands of devices across U.S. retail venues.
+
+Engineered an AI-powered chatbot (OpenAI integrations) for customer interactions and order processing.
+
+Implemented monitoring with Sentry, reducing incident response time and boosting system reliability.
+
+Managed AWS infrastructure, databases, and full-stack components (TypeScript, React, Next.js, Node.js).
+
+Deep Skill Software Factory (2023–2024):
+
+Built pharmacy management web apps and travel management tools using Next.js, React, and Tailwind.
+
+Led API development, UI design, and client-driven iterations in Agile environments.
+
+⚙️ Tech Stack:
+Frontend: React, Next.js, Tailwind
+Backend: Node.js, Nest.js, TypeScript
+Cloud/DevOps: AWS, Docker, Firebase
+Languages: JavaScript/TS, C++, Dart, Kotlin
+Tools: Figma, Sentry, PostgreSQL
+
+🌍 Multilingual:
+Native Spanish | Fluent English & Portuguese
+Citizenship: Argentine & Italian
 
 <!---
 brunoosuna8/brunoosuna8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
